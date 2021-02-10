@@ -1,3 +1,3 @@
-# [Sikeres](https://s2k-web.github.io/raw/)
+# [Sikeres](https://s2k-web.github.io/sikeres/)
 
 sikeres @ turr
